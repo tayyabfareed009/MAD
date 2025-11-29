@@ -77,6 +77,10 @@ Make sure Node.js and Expo CLI are installed on your system.
 Snapshots and videos are included in the respective project folders for reference.
 
 All projects are fully functional and tested on Android/iOS simulators or real devices.
+## Some App app simple for download and  run on your computer
+https://github.com/tayyabfareed009/midExam
+https://github.com/tayyabfareed009/EcommerceApp
+
 ##  Author
 Malik Tayyab Fareed
 Software Engineer | MAD Student
